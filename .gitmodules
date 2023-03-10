@@ -1,7 +1,3 @@
 [submodule "html-review"]
 	path = html-review
 	url = https://github.com/breilyntrochez/html-review.git
-
-[submodule "bulma-cards"]
-	path = bulma-cards
-	url = https://github.com/breilyntrochez/bulma-cards.git
